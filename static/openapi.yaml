@@ -1,0 +1,12 @@
+openapi: 3.0.3
+info:
+  title: ProxyPay API
+  version: 1.0.0
+  description: |
+    ProxyPay — Mobile Money ↔ Stellar Bridge API.
+
+    **To get the full spec:** copy `openapi.yaml` from the backend repo
+    (`proxypay/`) into `static/openapi.yaml` here, or fetch it from
+    a running backend at `http://localhost:3000/docs/openapi.json` and
+    convert to YAML.
+paths: {}
